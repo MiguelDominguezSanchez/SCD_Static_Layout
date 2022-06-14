@@ -419,6 +419,14 @@ height: 100%;
 
 
 
+/* Solutions */
+
+.text-contrast-bg{
+  /* background-color: red; */
+  background: linear-gradient(90deg, rgba(44,127,204,.5) 0%, rgba(72,178,206,.5) 100%); 
+  /* margin: 20px; */
+}
+
 /* Footer */
 
 #footer {
